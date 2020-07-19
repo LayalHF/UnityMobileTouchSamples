@@ -63,8 +63,8 @@ This project is divided into stages. Each stage has a different mobile touch con
 
 I will update the project with new stages in the future, feel free to recommend some controls you would like to use.
 
-I used :
-1. Dotween , it's ideal for hyper casual games as it's fast and smooth and will be using it more in the future stages, for more info check [Dotween site](http://dotween.demigiant.com/getstarted.php)  .
+Used :
+1. Dotween , it's ideal for hyper casual games as it's fast and smooth for controlling moving objects,and will be using it more in the future stages, for more info check [Dotween site](http://dotween.demigiant.com/getstarted.php)  .
 2. JMO Assets, it has cool particle effects and it's free , can be found in Unity Asset store [here](https://assetstore.unity.com/packages/vfx/particles/cartoon-fx-free-109565) .
 3. TextMeshPro from Unity , I use to animate text UI.
 4.  Models are from Kenney's Assets big thanks to Kenney. You can check his assets [here](https://www.kenney.nl/)
