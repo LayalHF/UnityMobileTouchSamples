@@ -44,7 +44,7 @@ This project is made for Unity 2019.2 and up.
 This project is updated to the latest Unity mobile touch system. Can be used on both Android and IOS.
 
 
->**Note:**  You can only test the touch functionality on your mobile they won't work using the mouse while in Unity's editor, so to avoid doing a lot of builds each time you want to test you can use **[Unite Remote 5](https://docs.unity3d.com/Manual/UnityRemote5.html)** to directly test on your phone while you hit the play button in Unity's editor.
+>**Note:**  You can only test the touch functionality on your mobile it won't work using the mouse while in Unity's editor, so to avoid doing a lot of builds each time you want to test you can use **[Unite Remote 5](https://docs.unity3d.com/Manual/UnityRemote5.html)** to directly test on your phone while you hit the play button in Unity's editor.
 
 **How to setup Unity Remote 5 ?**
 - In your Unity project ,change the build settings to Android or IOS (depends on your phone) **File > Build Settings**
