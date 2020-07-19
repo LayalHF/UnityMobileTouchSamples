@@ -10,9 +10,6 @@ Drag the food on the shelves and drop them in the cardboard box. You can only dr
 <p align="center"> 
     <img src="./res/stage1.gif">
 </p>
-<p align="center"> 
-        <img src="./res/stage1.png">
-</p>
 
 ## Move,Hold and Swipe
 
@@ -22,9 +19,6 @@ Hold to lift the ball and swipe forward to throw it in the cardboard box.
 <p align="center"> 
     <img src="./res/stage2.gif">
 </p>
-<p align="center"> 
-        <img src="./res/stage2.png">
-</p>
 
 ## Basic Joystick Movement
 
@@ -33,18 +27,12 @@ Move the marble in the maze.
 <p align="center"> 
     <img src="./res/stage3.gif">
 </p>
-<p align="center"> 
-        <img src="./res/stage3.png">
-</p>
 
 ## Tap 
 ### Stage 4
 Like cookie tapper, tap on pizza to see more effects. This event only takes single tapping.
 <p align="center"> 
     <img src="./res/stage4.gif">
-</p>
-<p align="center"> 
-        <img src="./res/stage4.png">
 </p>
 
 ##  INSTRUCTIONS
