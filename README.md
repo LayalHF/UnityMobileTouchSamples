@@ -71,6 +71,6 @@ Used :
 
 ---
 Thank you for reading this, I hope you find this project useful.
-Feel free to subscribe to my [Youtube Channel](https://www.youtube.com/channel/UC8ZB1WjdDT2TsFeQEEEtUhA?view_as=subscriber) for future tutorials.
+
 
 
